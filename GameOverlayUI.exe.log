@@ -1,0 +1,14 @@
+Tue Mar 27 07:18:54 2018 UTC - GameOverlay process started: pid: 7224
+Tue Mar 27 07:18:54 2018 UTC - GameOverlay process connecting to: pid: 2496
+Tue Mar 27 07:18:55 2018 UTC - BuildID: 1521764535
+Tue Mar 27 07:18:55 2018 UTC - Steam Path: C:\Program Files (x86)\Steam
+Tue Mar 27 07:18:55 2018 UTC - Error: texture file 'none' does not exist or is invalid
+Tue Mar 27 07:18:55 2018 UTC - Errors in resource\layout\friendpanel.layout:
+key 'font-size' set in style with no 'font-family' set
+Tue Mar 27 07:18:55 2018 UTC - Errors in resource\layout\friendpanel_rightaligned.layout:
+key 'font-size' set in style with no 'font-family' set
+Tue Mar 27 07:18:55 2018 UTC - Errors in resource\layout\friendpanel.layout:
+key 'font-size' set in style with no 'font-family' set
+Tue Mar 27 07:18:55 2018 UTC - Generating new string page texture 2741: 16x256, total string texture memory is 16.38 KB
+Tue Mar 27 07:18:59 2018 UTC - Detected possibly crashed/killed game, exiting
+Tue Mar 27 07:18:59 2018 UTC - Shutting down overlay
